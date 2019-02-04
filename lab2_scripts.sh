@@ -42,6 +42,6 @@ git add phone_results.txt
 git add email_results.txt
 git add command_results.txt
 git add lab2_scripts.sh
-git commit -m "Pushing phone, email and command texts"
+git commit -m "Pushing phone, email and command texts with the script."
 git remote add origin https://github.com/casey-tran/lab_2.git
 git push origin master
